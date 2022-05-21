@@ -1,4 +1,4 @@
-# Proyecyo-Barberia
+# Proyecto-Barberia
 
 Proyecto del Programa de Oracle
 
